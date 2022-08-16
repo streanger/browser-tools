@@ -1,5 +1,5 @@
-# browser_tools
+# browser-tools
 concept of browser useful tools
 
 ## url
-https://streanger.github.io/browser_tools/
+https://streanger.github.io/browser-tools/
